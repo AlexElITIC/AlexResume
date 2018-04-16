@@ -1,0 +1,38 @@
+body {
+  background-image: url("https://i.pinimg.com/236x/01/45/cc/0145ccfa7bc30d4b95270d485db6b652--white-wash-walls-white-brick-wallpaper.jpg");
+    background-color: #FFF;
+}
+
+#contenido{
+background: #f1f1f1;
+border-radius: 5px;
+box-shadow: 0px 0px 0px 8px rgba(0,0,0,0.3);
+margin-top: 50px;
+margin-bottom: 100px;
+text-align: center;
+padding-top: 1%;
+}
+
+#rounded-corners-gradient-borders {
+  margin-top: 20px;
+  margin-right: 90px;
+  margin-left: 90px;
+  margin-bottom: 20px;
+  border: double 4px transparent;
+  border-radius: 5px;
+  background-image: linear-gradient(#f1f1f1, #f1f1f1), radial-gradient(circle at top left, #000,#E5E4E4);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  height: auto;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#black {
+  border-left: 5px solid;
+}
